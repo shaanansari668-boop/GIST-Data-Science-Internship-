@@ -110,13 +110,9 @@ Correlation and model feature importance indicate association/predictive usefuln
 
 This project completes **GIST Data Science Task 4**, which requires building an interactive dashboard using tools like Plotly, Streamlit, Power BI, or Tableau. The dashboard must connect to a dataset, include filters and KPIs, visualize trends, and generate actionable insights.
 
----
-
 ## Project Objective
 
 Build an interactive **Sales Performance Dashboard** using Plotly in Python to analyze revenue, profit, and business performance across different dimensions.
-
----
 
 ## Dataset
 
@@ -133,8 +129,6 @@ The dataset contains transaction-level data including:
 * `Profit`
 
 The dataset is generated programmatically for reproducibility and portfolio demonstration.
-
----
 
 ## Features Implemented
 
@@ -165,8 +159,6 @@ The dataset is generated programmatically for reproducibility and portfolio demo
 * Profitability analysis
 * Sales trend evaluation
 
----
-
 ## Project Workflow
 
 1. Generate or load dataset
@@ -176,8 +168,6 @@ The dataset is generated programmatically for reproducibility and portfolio demo
 5. Aggregate data for analysis
 6. Create interactive visualizations using Plotly
 7. Generate business insights based on data
-
----
 
 ## How to Run
 
@@ -191,8 +181,6 @@ The dataset is generated programmatically for reproducibility and portfolio demo
 4. Run all cells from top to bottom
 5. Modify filter variables in code to explore different results
 
----
-
 ## Dashboard KPIs
 
 * **Total Revenue** — sum of all revenue
@@ -200,8 +188,6 @@ The dataset is generated programmatically for reproducibility and portfolio demo
 * **Total Orders** — number of unique orders
 * **Average Order Value (AOV)** — Revenue / Orders
 * **Profit Margin (%)** — (Profit / Revenue) × 100
-
----
 
 ## Actionable Insights Logic
 
@@ -214,14 +200,10 @@ The dashboard dynamically identifies:
 
 These insights help simulate real-world business decision-making.
 
----
-
 ## Files
 
 * `GIST_Task4_Interactive_Dashboard.ipynb` — complete Colab notebook
 * `README.md` — project documentation
-
----
 
 ## Technologies
 
@@ -230,8 +212,6 @@ These insights help simulate real-world business decision-making.
 * NumPy
 * Plotly
 * Google Colab
-
----
 
 ## GIST Task 4 Requirements Checklist
 
