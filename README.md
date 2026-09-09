@@ -215,14 +215,12 @@ These insights help simulate real-world business decision-making.
 
 ## GIST Task 4 Requirements Checklist
 
-* Dataset connected ✔
-* KPIs implemented ✔
-* Filters applied ✔
-* Trends visualized ✔
-* Interactive charts ✔
-* Actionable insights ✔
-
----
+* Dataset connected 
+* KPIs implemented 
+* Filters applied 
+* Trends visualized 
+* Interactive charts 
+* Actionable insights 
 
 ## Outcome
 
