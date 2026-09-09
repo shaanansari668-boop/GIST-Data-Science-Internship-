@@ -106,7 +106,7 @@ Correlation and model feature importance indicate association/predictive usefuln
 
 # GIST Data Science Internship — Task 4
 
-## Advanced+: Interactive Data Dashboard
+## Advanced + Interactive Data Dashboard
 
 This project completes **GIST Data Science Task 4**, which requires building an interactive dashboard using tools like Plotly, Streamlit, Power BI, or Tableau. The dashboard must connect to a dataset, include filters and KPIs, visualize trends, and generate actionable insights.
 
